@@ -1,1 +1,3 @@
 # Git-first
+
+## Project Notes
